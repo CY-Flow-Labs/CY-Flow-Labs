@@ -30,6 +30,14 @@ An offline-first, Fanuc-style 3+1-axis CNC route simulator and program preflight
 
 [View source and setup guide →](https://github.com/CY-Flow-Labs/cnc-route-studio)
 
+### [AutoLISP PCAP Diamond Electrode Generator](https://github.com/CY-Flow-Labs/autolisp-pcap-diamond-electrode)
+
+A parameterized AutoLISP tool for generating generic TX/RX diamond-electrode lattices for projected-capacitive layout exploration.
+
+參數化的AutoLISP投射電容TX／RX菱形電極格網產生器，採Block重複使用以改善大型陣列的產圖速度。
+
+[View source and usage →](https://github.com/CY-Flow-Labs/autolisp-pcap-diamond-electrode)
+
 ## In development
 
 ### Cyclonic
@@ -50,4 +58,3 @@ A focused Android audio workspace designed for reliable recording and a clear ev
 For feedback or collaboration, please use the relevant repository's issue tracker.
 
 若要提供建議或討論合作，請使用對應專案的 Issues。
-
