@@ -50,6 +50,8 @@ A focused Android audio workspace designed for reliable recording and a clear ev
 
 **Status:** Preparing for release · More information coming soon
 
+[Privacy policy →](https://cy-flow-labs.github.io/cyclonic-privacy/)
+
 ## Principles
 
 - Local-first where practical
