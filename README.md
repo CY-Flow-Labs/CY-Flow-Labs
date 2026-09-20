@@ -5,17 +5,17 @@
 **Practical software for real-world workflows.**  
 為真實工作流程打造實用軟體。
 
-[Projects](#featured-project) · [About](#about) · [Contact](#contact)
+[Projects](#featured-projects) · [About](#about) · [Contact](#contact)
 
 </div>
 
 ## About
 
-We build focused tools that turn complex workflows into clear, dependable software—currently across CNC simulation and mobile applications.
+We build focused, local-first tools for engineering and everyday workflows—currently across CNC simulation, experimental CAD automation and mobile applications.
 
-我們專注於把複雜工作流程整理成清楚、可靠、可以實際使用的工具，目前涵蓋 CNC 模擬與行動應用。
+我們專注於把複雜工作流程整理成清楚、可靠的本地優先工具，目前涵蓋 CNC 模擬、實驗性 CAD 自動化與行動應用。
 
-## Featured project
+## Featured projects
 
 ### [CNC Route Studio](https://github.com/CY-Flow-Labs/cnc-route-studio)
 
@@ -32,9 +32,13 @@ An offline-first, Fanuc-style 3+1-axis CNC route simulator and program preflight
 
 ### [AutoLISP PCAP Diamond Electrode Generator](https://github.com/CY-Flow-Labs/autolisp-pcap-diamond-electrode)
 
-A parameterized AutoLISP tool for generating generic TX/RX diamond-electrode lattices for projected-capacitive layout exploration.
+**Experimental** · A parameterized AutoLISP tool for generating two-layer PCAP diamond electrodes, Ag fan-out, laser-isolation paths and FPC pin guides.
 
-參數化的AutoLISP投射電容TX／RX菱形電極格網產生器，採Block重複使用以改善大型陣列的產圖速度。
+**實驗性程式** · 參數化的 AutoLISP 雙層 PCAP 菱形感測器產生器，包含 ITO 電極、Ag fan-out、laser isolation 與 FPC pin 輔助線。
+
+Geometry regression checks are available; AutoCAD/BricsCAD host validation is still in progress. Not fabrication-ready.
+
+點對點幾何已完成回歸比對；AutoCAD／BricsCAD 實機驗證仍在進行，不可直接用於量產或加工。
 
 [View source and usage →](https://github.com/CY-Flow-Labs/autolisp-pcap-diamond-electrode)
 
