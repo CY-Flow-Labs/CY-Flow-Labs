@@ -15,11 +15,17 @@ We build focused, local-first tools for engineering and everyday workflows—cur
 
 我們專注於把複雜工作流程整理成清楚、可靠的本地優先工具，目前涵蓋 CNC 模擬、實驗性 CAD 自動化與行動應用。
 
+Our current open-source maintenance focus is **CNC Route Studio**. We publish source, track changes, review reported problems, and keep examples synthetic so contributors can reproduce issues without sharing production NC files.
+
+目前的開源維護重點是 **CNC Route Studio**：公開原始碼與版本變更，透過 Issues 收集可重現問題，並使用合成範例保護實際加工資料。
+
 ## Featured projects
 
 ### [CNC Route Studio](https://github.com/CY-Flow-Labs/cnc-route-studio)
 
 An offline-first, Fanuc-style 3+1-axis CNC route simulator and program preflight tool.
+
+**Current public version: v1.15.0** · [CI](https://github.com/CY-Flow-Labs/cnc-route-studio/actions/workflows/ci.yml) · [Roadmap](https://github.com/CY-Flow-Labs/cnc-route-studio/blob/main/ROADMAP.md) · [Contributing](https://github.com/CY-Flow-Labs/cnc-route-studio/blob/main/CONTRIBUTING.md)
 
 離線優先的 Fanuc 類 3+1 軸 CNC 刀路模擬與程式預檢工具。
 
